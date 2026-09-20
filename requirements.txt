@@ -4,3 +4,5 @@ openpyxl
 fpdf2>=2.7.0
 st-gsheets-connection
 gspread-dataframe
+pypdf
+pdfplumber
